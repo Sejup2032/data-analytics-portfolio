@@ -51,7 +51,6 @@ I’m a Data Analyst passionate about turning data into meaningful insights. I l
                 Applied data augmentation techniques to improve model generalization.
 - **Results**:  Achieved 92% classification accuracy.
                 Reduced manual labeling time by 35%, improving workflow efficiency.
-- **Demo / Code**: 
 
 ### 2. Sentiment Analysis for Stock Movements
 - **Objective**: Predict stock market trends by analyzing financial news sentiment.
@@ -68,7 +67,48 @@ I’m a Data Analyst passionate about turning data into meaningful insights. I l
                  Correlated sentiment scores with stock price movements for actionable insights.
 - **Results**:   Improved sentiment model precision by 80%.
                  Enhanced analysis speed by 75% through automated ETL pipeline.
-- **Demo / Code**: https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements
+- **Code**: https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements
+
+### 3. Financial Forecast Optimization through Dynamic BI Model
+- **Objective**: Build a dynamic Power BI forecasting dashboard to automate budgeting and scenario analysis using SQL and Python integration.
+- **Tech Stak**: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-008000?style=flat&logo=python&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+
+- **Approach**: Connected Power BI directly to transactional data stored in SQL Server.
+                Used Python (pandas + statsmodels) for forecasting and regression-based financial prediction.
+                Embedded predictive models into Power BI through Python scripts.
+                Designed scenario analysis tools (e.g., exchange rate, policy lapse rate) to simulate financial outcomes dynamically.
+- **Results**:  Improved forecast accuracy by 22% over traditional Excel models.
+                Reduced manual budgeting effort by 35%.
+- **Code**: https://github.com/Sejup2032/Financial-Forecast-Optimization-through-Dynamic-BI-Model.ipynb
+  
+### 4.Credit Risk Assessment & Recovery Dashboard
+- **Objective**: Detect high-risk borrowers and improve financial recovery insights using machine learning and BI automation.
+- **Tech Stak**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+
+- **Approach**:Built an Azure Data Factory pipeline to merge and clean loan, transaction, and customer data.
+               Engineered features on repayment behavior, loan tenure, and transaction frequency.
+               Trained a Random Forest classifier to predict credit risk levels (High, Medium, Low).
+               Visualized delinquency trends and recovery performance in Power BI and Dash.
+               Set up automated alerts for anomaly detection and compliance tracking.
+
+- **Results**:Achieved 87% accuracy in risk classification.
+              Automated 15+ analyst-hours per week in manual reporting.
+              Enhanced loan recovery insights and audit transparency across regions.
+- **Code**: https://github.com/Sejup2032/Credit-Risk-Assessment-Recovery-Dashboard
 ---
 
 ## 🔹 Education & Certifications  
