@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio  
 
-Hi, I’m Sejal Patil 👋  
+Hi👋  
 I’m a Data Analyst passionate about turning data into meaningful insights. I love exploring datasets, building predictive models, and creating dashboards that help businesses make smarter decisions. From analyzing stock sentiment to classifying medical images, I enjoy solving real-world problems with Python, SQL, Power BI, and Tableau.
 
 
