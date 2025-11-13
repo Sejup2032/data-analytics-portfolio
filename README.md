@@ -1,7 +1,21 @@
 # 📊 Data Analytics Portfolio  
 
-Hi👋  
-I’m a Data Analyst passionate about turning data into meaningful insights. I love exploring datasets, building predictive models, and creating dashboards that help businesses make smarter decisions. From analyzing stock sentiment to classifying medical images, I enjoy solving real-world problems with Python, SQL, Power BI, and Tableau.
+
+<table>
+  <tr>
+    <td>
+      <img width="150" height="200" alt="Image" src="https://github.com/user-attachments/assets/bbbbc7ec-4c30-4a77-a564-1c95e32f26f1" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <p>Hi👋<br>
+      I’m a Data Analyst passionate about turning data into meaningful insights.<br>
+      I love exploring datasets, building predictive models, and creating dashboards<br>
+      that help businesses make smarter decisions. From analyzing stock sentiment to<br>
+      classifying medical images, I enjoy solving real-world problems with Python, SQL,<br>
+      Power BI, and Tableau.</p>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Technical Skills
