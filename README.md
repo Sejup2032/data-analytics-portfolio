@@ -1,4 +1,4 @@
-# 📊 Data Analyst 
+# 📊 Data Engineer
 
 
 <table>
@@ -8,11 +8,9 @@
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>Hi👋<br>
-      I’m a Data Analyst passionate about turning data into meaningful insights.<br>
-      I love exploring datasets, building predictive models, and creating dashboards<br>
-      that help businesses make smarter decisions. From analyzing stock sentiment to<br>
-      classifying medical images, I enjoy solving real-world problems with Python, SQL,<br>
-      Power BI, and Tableau.</p>
+      I’m a Data Engineer with experience building reliable data pipelines and working with large, real-world datasets.
+I enjoy designing ETL workflows, automating data processing, and supporting analytics and machine learning use cases.
+From cloud-based data pipelines to research-driven ML projects, I focus on turning raw data into clean, usable datasets using Python, SQL, Azure, and Spark.</p>
     </td>
   </tr>
 </table>
@@ -20,40 +18,80 @@
 
 ## 🛠 Technical Skills
 
-#### 💻 Programming & Data Analysis
+#### 💻 Primary Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-#### 🤖 Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-4B0082?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5A2B4C?style=flat&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-5A2B4C?style=flat&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=flat&logo=python&logoColor=white)
+#### 🤖 Big Data & processing
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A6ED1?style=flat&logo=databricks&logoColor=white)
 
-#### 📊 Data Visualization & BI Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-FF6600?style=flat&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+#### 📊 Microsoft Azure
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-#### 🛠 Tools & Data Engineering
-![ETL](https://img.shields.io/badge/ETL-4B0082?style=flat&logo=python&logoColor=white)
+#### 🛠 Data Engineering & ETL
+![ETL](https://img.shields.io/badge/ETL%2FELT-4CAF50?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat)
+![Data Quality](https://img.shields.io/badge/Data%20Quality%20Checks-009688?style=flat)
+
+#### 🛠 DevOps & Automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Microsoft_Azure_AI-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2C2C2C?style=flat)
 
+#### 🛠 Databases & Warehouses
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+#### 🛠 Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+---
+## 🔹 Certifications  
+- **Microsoft Azure AI-900**  [![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.your-certification-link.com)
+- **SQL for Data Science (Coursera)**  [![SQL for Data Science](https://img.shields.io/badge/SQL_Coursera-0052CC?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/verify/your-certification-link)
+- **AI for Everyone** [![AI for Everyone](https://img.shields.io/badge/AI_for_Everyone-FF6F00?style=flat&logo=deeplearningai&logoColor=white)](https://www.your-certification-link.com)
+
+ ---
+## 🔹 Publication 
+
+ 📄 **Publications**
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-4CAF50?style=flat)
+![Thyroid Nodule](https://img.shields.io/badge/Thyroid%20Nodule%20Detection-009688?style=flat)
+![Conference Paper](https://img.shields.io/badge/Conference%20Paper-3F51B5?style=flat)
+![ITI 2025](https://img.shields.io/badge/ITI%202025-NIT%20Agartala-673AB7?style=flat)
+
+**Deep Learning Techniques for Thyroid Nodule Detection**  
+_2nd International Conference on Information Technology and Intelligence (ITI 2025),  
+National Institute of Technology, Agartala, India_
+
+---
+
+![Cryptography](https://img.shields.io/badge/Cryptography-9C27B0?style=flat)
+![Encryption](https://img.shields.io/badge/Encryption-795548?style=flat)
+![Vedic Mathematics](https://img.shields.io/badge/Vedic%20Mathematics-FF9800?style=flat)
+![Journal Paper](https://img.shields.io/badge/Journal%20Paper-607D8B?style=flat)
+![IJIIR](https://img.shields.io/badge/IJIIR-Vol.%201%20Issue%203%20(2022)-2196F3?style=flat)
+
+**Vedic Mathematics for Encryption Techniques**  
+_International Journal of Innovative Interdisciplinary Research (IJIIR),  
+Vol. 1, Issue 3, March 2022_
+
+---
 ---
 ## 🔹 Projects  
 
-### 1. Enhancing Thyroid Nodule Diagnosis Using Deep Learning
+### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -66,7 +104,7 @@
 - **Results**:  Achieved 92% classification accuracy.
                 Reduced manual labeling time by 35%, improving workflow efficiency.
 
-### 2. Sentiment Analysis for Stock Movements
+### Sentiment Analysis for Stock Movements
 - **Objective**: Predict stock market trends by analyzing financial news sentiment.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -83,7 +121,7 @@
                  Enhanced analysis speed by 75% through automated ETL pipeline.
 - **Code**: https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements
 
-### 3. Financial Forecast Optimization through Dynamic BI Model
+### Financial Forecast Optimization through Dynamic BI Model
 - **Objective**: Build a dynamic Power BI forecasting dashboard to automate budgeting and scenario analysis using SQL and Python integration.
 - **Tech Stak**: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -101,7 +139,7 @@
                 Reduced manual budgeting effort by 35%.
 - **Code**: https://github.com/Sejup2032/Financial-Forecast-Optimization-through-Dynamic-BI-Model.ipynb
   
-### 4.Credit Risk Assessment & Recovery Dashboard
+### Credit Risk Assessment & Recovery Dashboard
 - **Objective**: Detect high-risk borrowers and improve financial recovery insights using machine learning and BI automation.
 - **Tech Stak**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -124,16 +162,6 @@
               Enhanced loan recovery insights and audit transparency across regions.
 - **Code**: https://github.com/Sejup2032/Credit-Risk-Assessment-Recovery-Dashboard
 ---
-
-## 🔹 Education & Certifications  
-- **Microsoft Azure AI-900**  [![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.your-certification-link.com)
-
-- **SQL for Data Science (Coursera)**  [![SQL for Data Science](https://img.shields.io/badge/SQL_Coursera-0052CC?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/verify/your-certification-link)
-
-
-
-- **AI for Everyone** [![AI for Everyone](https://img.shields.io/badge/AI_for_Everyone-FF6F00?style=flat&logo=deeplearningai&logoColor=white)](https://www.your-certification-link.com)
- 
 ---
 
 ## 🔹 Contact   
