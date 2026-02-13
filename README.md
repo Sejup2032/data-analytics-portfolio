@@ -8,11 +8,9 @@
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>Hi👋<br>
-      I’m a Data Engineer with experience building reliable data pipelines and working <br>
-      with large, real-world datasets. I enjoy designing ETL workflows, automating data processing,<br>
-      and supporting analytics and machine learning use cases.From cloud-based data pipelines to<br>
-      research-driven ML projects, I focus on turning raw data into clean, usable datasets using Python,<br>
-      SQL, Azure, and Spark.</p>
+      I’m a Data Engineer with experience building reliable data pipelines and working with large, real-world datasets.
+I enjoy designing ETL workflows, automating data processing, and supporting analytics and machine learning use cases.
+From cloud-based data pipelines to research-driven ML projects, I focus on turning raw data into clean, usable datasets using Python, SQL, Azure, and Spark.</p>
     </td>
   </tr>
 </table>
