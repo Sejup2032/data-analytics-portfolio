@@ -57,8 +57,6 @@ From cloud-based data pipelines to research-driven ML projects, I focus on turni
 ---
 ---
 ## 🔹 Certifications  
-## 🔹 Certifications
-
 <table>
 <tr>
 <td>
