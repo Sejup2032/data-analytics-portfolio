@@ -57,9 +57,45 @@ From cloud-based data pipelines to research-driven ML projects, I focus on turni
 ---
 ---
 ## 🔹 Certifications  
-- **Microsoft Azure AI-900**  [![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.your-certification-link.com)
-- **SQL for Data Science (Coursera)**  [![SQL for Data Science](https://img.shields.io/badge/SQL_Coursera-0052CC?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/verify/your-certification-link)
-- **AI for Everyone** [![AI for Everyone](https://img.shields.io/badge/AI_for_Everyone-FF6F00?style=flat&logo=deeplearningai&logoColor=white)](https://www.your-certification-link.com)
+## 🔹 Certifications
+
+<table>
+<tr>
+<td>
+
+- **Microsoft Azure DP-203 (In Progress)**  
+[![Microsoft Azure DP-203](https://img.shields.io/badge/Microsoft_Azure_DP--203_In_Progress-0078D4?style=flat&logo=microsoft&logoColor=white)](#)
+
+- **Microsoft Azure DP-900**  
+[![Microsoft Azure DP-900](https://img.shields.io/badge/Microsoft_Azure_DP--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/patilsejalbencognizant-1151/credentials/b9560295830feab6)
+
+- **Microsoft Azure AI-900**  
+[![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.credly.com/badges/966e5d84-850d-4903-8a3a-cb471f1dae0f/public_url)
+
+- **Databricks Data Privacy**  
+[![Databricks Data Privacy](https://img.shields.io/badge/Databricks_Data_Privacy-Certified-FF3621?style=flat&logo=databricks&logoColor=white)](https://drive.google.com/file/d/1-I7r7UsOE9jD5EyTSXnXGjkkrXRkP_cD/view)
+
+</td>
+<td>
+
+- **Generative AI (Cognizant)**  
+[![Generative AI - Cognizant](https://img.shields.io/badge/Generative_AI-Cognizant-1F77B4?style=flat&logo=openai&logoColor=white)](https://drive.google.com/file/d/1VmvbJcdrqcyvOCSFhgI9DD6j_Qj4PndL/view)
+
+- **Amazing Data with Power BI (Analytics Vidhya)**  
+[![Amazing Data with Power BI](https://img.shields.io/badge/Power_BI-Analytics_Vidhya-F2C811?style=flat&logo=powerbi&logoColor=black)](https://courses.analyticsvidhya.com/certificates/rg8walhcgq)
+
+
+- **SQL for Data Science (Coursera)**  
+[![SQL Coursera](https://img.shields.io/badge/SQL_Coursera-0052CC?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/HXJXCVPV8TKM)
+
+- **AI for Everyone**  
+[![AI for Everyone](https://img.shields.io/badge/AI_for_Everyone-FF6F00?style=flat&logo=deeplearningai&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/59ATCGF6YJR5)
+
+<!-- Add more certifications here -->
+</td>
+</tr>
+</table>
+
 ---
 
 ---
