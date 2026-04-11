@@ -1,4 +1,4 @@
-# 📊 Data Engineer
+# 📊 Data Analyst
 
 
 <table>
