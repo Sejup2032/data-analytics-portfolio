@@ -8,9 +8,7 @@
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>Hi👋<br>
-      I’m a Data Engineer with experience building reliable data pipelines and working with large, real-world datasets.
-I enjoy designing ETL workflows, automating data processing, and supporting analytics and machine learning use cases.
-From cloud-based data pipelines to research-driven ML projects, I focus on turning raw data into clean, usable datasets using Python, SQL, Azure, and Spark.</p>
+      I’m a Data Analyst with experience working with real-world datasets to uncover insights and support data-driven decision-making. I enjoy cleaning, analyzing, and visualizing data, as well as building dashboards and reports that help stakeholders understand trends and patterns. Using Python, SQL, and Power BI, I focus on transforming raw data into meaningful and actionable insights.</p>
     </td>
   </tr>
 </table>
@@ -21,38 +19,24 @@ From cloud-based data pipelines to research-driven ML projects, I focus on turni
 #### 💻 Primary Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white)
-
-#### 🤖 Big Data & Processing
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A6ED1?style=flat&logo=databricks&logoColor=white)
-
-#### 📊 Microsoft Azure
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-#### 🛠 Data Engineering & ETL
-![ETL](https://img.shields.io/badge/ETL%2FELT-4CAF50?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat)
-![Data Quality](https://img.shields.io/badge/Data%20Quality%20Checks-009688?style=flat)
-
-#### 🛠 DevOps & Automation
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2C2C2C?style=flat)
-
-#### 🛠 Database & Warehouses
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### 🛠 Visualization
+#### 📊 Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=flat)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-6A1B9A?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-009688?style=flat)
+#### 📈 Analytics & Modeling
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-3F51B5?style=flat)
+![Regression](https://img.shields.io/badge/Regression-795548?style=flat)
+![Forecasting](https://img.shields.io/badge/Forecasting-607D8B?style=flat)
+![Data Interpretation](https://img.shields.io/badge/Data%20Interpretation-4CAF50?style=flat)
+#### 🗄 Database & Querying
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+#### 🛠 Tools & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 ---
@@ -61,15 +45,10 @@ From cloud-based data pipelines to research-driven ML projects, I focus on turni
 <tr>
 <td>
 
-- **Microsoft Azure DP-203 (In Progress)**  
-[![Microsoft Azure DP-203](https://img.shields.io/badge/Microsoft_Azure_DP--203_In_Progress-0078D4?style=flat&logo=microsoft&logoColor=white)](#)
-
 - **Microsoft Azure DP-900**  
 [![Microsoft Azure DP-900](https://img.shields.io/badge/Microsoft_Azure_DP--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/patilsejalbencognizant-1151/credentials/b9560295830feab6)
-
 - **Microsoft Azure AI-900**  
 [![Microsoft Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI--900-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.credly.com/badges/966e5d84-850d-4903-8a3a-cb471f1dae0f/public_url)
-
 - **Databricks Data Privacy**  
 [![Databricks Data Privacy](https://img.shields.io/badge/Databricks_Data_Privacy-Certified-FF3621?style=flat&logo=databricks&logoColor=white)](https://drive.google.com/file/d/1-I7r7UsOE9jD5EyTSXnXGjkkrXRkP_cD/view)
 
@@ -78,16 +57,10 @@ From cloud-based data pipelines to research-driven ML projects, I focus on turni
 
 - **Generative AI (Cognizant)**  
 [![Generative AI - Cognizant](https://img.shields.io/badge/Generative_AI-Cognizant-1F77B4?style=flat&logo=openai&logoColor=white)](https://drive.google.com/file/d/1VmvbJcdrqcyvOCSFhgI9DD6j_Qj4PndL/view)
-
 - **Amazing Data with Power BI (Analytics Vidhya)**  
 [![Amazing Data with Power BI](https://img.shields.io/badge/Power_BI-Analytics_Vidhya-F2C811?style=flat&logo=powerbi&logoColor=black)](https://courses.analyticsvidhya.com/certificates/rg8walhcgq)
-
-
-- **SQL for Data Science (Coursera)**  
-[![SQL Coursera](https://img.shields.io/badge/SQL_Coursera-0052CC?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/HXJXCVPV8TKM)
-
-- **AI for Everyone**  
-[![AI for Everyone](https://img.shields.io/badge/AI_for_Everyone-FF6F00?style=flat&logo=deeplearningai&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/59ATCGF6YJR5)
+- **SQL (Intermediate)**  
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white)](YOUR_CERTIFICATE_LINK)
 
 <!-- Add more certifications here -->
 </td>
@@ -122,20 +95,7 @@ Vol. 1, Issue 3, March 2022_
 ---
 ---
 ## 🔹 Projects  
-### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
-- **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
-- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![MONAI](https://img.shields.io/badge/MONAI-FF6F00?style=flat&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=python&logoColor=white)
-![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-4B0082?style=flat&logo=python&logoColor=white)
-
-- **Approach**: Developed a convolutional neural network (CNN) model trained on labeled thyroid images.
-                Applied data augmentation techniques to improve model generalization.
-- **Results**:  Achieved 92% classification accuracy.
-                Reduced manual labeling time by 35%, improving workflow efficiency.
-
-### Sentiment Analysis for Stock Movements
+### Stock Market Sentiment Analysis Using Financial News
 - **Objective**: Predict stock market trends by analyzing financial news sentiment.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -150,7 +110,7 @@ Vol. 1, Issue 3, March 2022_
                  Correlated sentiment scores with stock price movements for actionable insights.
 - **Results**:   Improved sentiment model precision by 80%.
                  Enhanced analysis speed by 75% through automated ETL pipeline.
-- **Code**: https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements
+- **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
 
 ### Financial Forecast Optimization through Dynamic BI Model
 - **Objective**: Build a dynamic Power BI forecasting dashboard to automate budgeting and scenario analysis using SQL and Python integration.
@@ -192,7 +152,19 @@ Vol. 1, Issue 3, March 2022_
               Automated 15+ analyst-hours per week in manual reporting.
               Enhanced loan recovery insights and audit transparency across regions.
 - **Code**: https://github.com/Sejup2032/Credit-Risk-Assessment-Recovery-Dashboard
+
+- ### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
+- **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
+- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-FF6F00?style=flat&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=python&logoColor=white)
+![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-4B0082?style=flat&logo=python&logoColor=white)
+
+- **Approach**: Developed a convolutional neural network (CNN) model trained on labeled thyroid images.
+                Applied data augmentation techniques to improve model generalization.
+- **Results**:  Achieved 92% classification accuracy.
+                Reduced manual labeling time by 35%, improving workflow efficiency.
+  
 ---
 ---
-## 🔹 Contact   
-- **Email**: sejalmpatil1@gmail.com 
