@@ -112,29 +112,6 @@ Vol. 1, Issue 3, March 2022_
                  Enhanced analysis speed by 75% through automated ETL pipeline.
 - **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
 
-### Credit Risk Assessment & Recovery Dashboard
-- **Objective**: Detect high-risk borrowers and improve financial recovery insights using machine learning and BI automation.
-- **Tech Stak**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-
-- **Approach**:Built an Azure Data Factory pipeline to merge and clean loan, transaction, and customer data.
-               Engineered features on repayment behavior, loan tenure, and transaction frequency.
-               Trained a Random Forest classifier to predict credit risk levels (High, Medium, Low).
-               Visualized delinquency trends and recovery performance in Power BI and Dash.
-               Set up automated alerts for anomaly detection and compliance tracking.
-
-- **Results**:Achieved 87% accuracy in risk classification.
-              Automated 15+ analyst-hours per week in manual reporting.
-              Enhanced loan recovery insights and audit transparency across regions.
-- **Code**: https://github.com/Sejup2032/Credit-Risk-Assessment-Recovery-Dashboard
-
 ### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
