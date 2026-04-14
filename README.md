@@ -93,26 +93,10 @@ _International Journal of Innovative Interdisciplinary Research [(IJIIR)](https:
 Vol. 1, Issue 3, March 2022_
 
 ---
+
 ---
 ## 🔹 Projects  
-### Stock Market Sentiment Analysis Using Financial News
-- **Objective**: Predict stock market trends by analyzing financial news sentiment.
-- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-5A2B4C?style=flat&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=flat&logo=python&logoColor=white)
-![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-400090?style=flat&logo=yahoo&logoColor=white)
-![ETL Pipeline](https://img.shields.io/badge/ETL_Pipeline-4B0082?style=flat&logo=python&logoColor=white)
-
- 
-- **Approach**:  Built an ETL pipeline to extract financial data and news articles.
-                 Performed sentiment analysis using NLTK and TextBlob.
-                 Correlated sentiment scores with stock price movements for actionable insights.
-- **Results**:   Improved sentiment model precision by 80%.
-                 Enhanced analysis speed by 75% through automated ETL pipeline.
-- **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
-
-### HR Analytics Dashboard – Employee Attrition Analysis
+### 1️⃣ HR Analytics Dashboard – Employee Attrition Analysis
 - **Objective**: Analyze employee attrition patterns and identify key factors influencing workforce turnover to support HR decision-making.
 
 - **Tech Stack**:  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
@@ -129,8 +113,25 @@ Vol. 1, Issue 3, March 2022_
                  Improved visibility into employee retention challenges for better decision-making.
 
 - **Code**: [https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI](https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI)
+---
+### 2️⃣ Stock Market Sentiment Analysis Using Financial News
+- **Objective**: Predict stock market trends by analyzing financial news sentiment.
+- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-5A2B4C?style=flat&logo=python&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=flat&logo=python&logoColor=white)
+![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-400090?style=flat&logo=yahoo&logoColor=white)
+![ETL Pipeline](https://img.shields.io/badge/ETL_Pipeline-4B0082?style=flat&logo=python&logoColor=white)
 
-### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
+ 
+- **Approach**:  Built an ETL pipeline to extract financial data and news articles.
+                 Performed sentiment analysis using NLTK and TextBlob.
+                 Correlated sentiment scores with stock price movements for actionable insights.
+- **Results**:   Improved sentiment model precision by 80%.
+                 Enhanced analysis speed by 75% through automated ETL pipeline.
+- **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
+---
+### 3️⃣ Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
