@@ -135,7 +135,7 @@ Vol. 1, Issue 3, March 2022_
               Enhanced loan recovery insights and audit transparency across regions.
 - **Code**: https://github.com/Sejup2032/Credit-Risk-Assessment-Recovery-Dashboard
 
-- ### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
+### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
