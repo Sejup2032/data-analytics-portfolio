@@ -112,6 +112,24 @@ Vol. 1, Issue 3, March 2022_
                  Enhanced analysis speed by 75% through automated ETL pipeline.
 - **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
 
+### HR Analytics Dashboard – Employee Attrition Analysis
+- **Objective**: Analyze employee attrition patterns and identify key factors influencing workforce turnover to support HR decision-making.
+
+- **Tech Stack**:  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=flat)
+
+- **Approach**:  Built an interactive Power BI dashboard to analyze employee data across multiple dimensions.
+                 Performed analysis on attrition trends by age, salary, job role, and years of experience.
+                 Designed KPI metrics and visualizations to highlight workforce patterns and risk areas.
+
+- **Results**:   Identified key attrition drivers such as low salary, early tenure, and specific job roles.
+                 Enabled quick understanding of workforce trends through interactive and visual insights.
+                 Improved visibility into employee retention challenges for better decision-making.
+
+- **Code**: [https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI](https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI)
+
 ### Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
