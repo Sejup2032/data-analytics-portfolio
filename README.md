@@ -112,24 +112,6 @@ Vol. 1, Issue 3, March 2022_
                  Enhanced analysis speed by 75% through automated ETL pipeline.
 - **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
 
-### Financial Forecast Optimization through Dynamic BI Model
-- **Objective**: Build a dynamic Power BI forecasting dashboard to automate budgeting and scenario analysis using SQL and Python integration.
-- **Tech Stak**: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-008000?style=flat&logo=python&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-
-- **Approach**: Connected Power BI directly to transactional data stored in SQL Server.
-                Used Python (pandas + statsmodels) for forecasting and regression-based financial prediction.
-                Embedded predictive models into Power BI through Python scripts.
-                Designed scenario analysis tools (e.g., exchange rate, policy lapse rate) to simulate financial outcomes dynamically.
-- **Results**:  Improved forecast accuracy by 22% over traditional Excel models.
-                Reduced manual budgeting effort by 35%.
-- **Code**: https://github.com/Sejup2032/Financial-Forecast-Optimization-through-Dynamic-BI-Model.ipynb
-  
 ### Credit Risk Assessment & Recovery Dashboard
 - **Objective**: Detect high-risk borrowers and improve financial recovery insights using machine learning and BI automation.
 - **Tech Stak**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
