@@ -113,8 +113,25 @@ Vol. 1, Issue 3, March 2022_
                  Improved visibility into employee retention challenges for better decision-making.
 
 - **Code**: [https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI](https://github.com/Sejup2032/HR-Analytics-Dashboard-PowerBI)
----
-### 2️⃣ Stock Market Sentiment Analysis Using Financial News
+
+### 2️⃣ Global Finance Performance & Profitability Dashboard
+- **Objective**: Analyze global financial performance by tracking sales, profit, and cost metrics across countries, time periods, and product categories to support data-driven business decisions.
+- **Tech Stack**: ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=flat)
+
+- **Approach**: Built an interactive finance dashboard using Looker Studio to visualize global sales and profitability.
+                Implemented calculated fields (Month, Quarter) to handle large datasets and improve performance.
+                Designed KPI scorecards, geospatial maps, time-series charts, and product-level visualizations.
+                Enabled cross-filtering and drill-down capabilities for dynamic and user-friendly analysis.
+- **Results**: Identified key trends in sales and profit across regions and time periods.
+               Improved dashboard performance by optimizing data aggregation and granularity.
+               Delivered clear and interactive financial insights, enabling faster and better decision-making.
+- **Code**: https://github.com/Sejup2032/Global-Finance-Performance--and-Profitability-Looker
+
+### 3️⃣ Stock Market Sentiment Analysis Using Financial News
 - **Objective**: Predict stock market trends by analyzing financial news sentiment.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -130,8 +147,8 @@ Vol. 1, Issue 3, March 2022_
 - **Results**:   Improved sentiment model precision by 80%.
                  Enhanced analysis speed by 75% through automated ETL pipeline.
 - **Code**: [https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements](https://github.com/Sejup2032/Insider-Sentiment-Analysis-for-Stock-Movements/blob/main/README.md)
----
-### 3️⃣ Enhancing Thyroid Nodule Diagnosis Using Deep Learning
+
+###  Enhancing Thyroid Nodule Diagnosis Using Deep Learning
 - **Objective**: Automate thyroid nodule classification to assist radiologists and reduce manual workload.
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
